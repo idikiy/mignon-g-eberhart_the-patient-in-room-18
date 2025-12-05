@@ -56,7 +56,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75384</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101865748</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Patient_in_Room_18</meta>
@@ -65,7 +64,7 @@
 		<meta property="file-as" refines="#author">Eberhart, Mignon G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Mignon Good Eberhart</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mignon_G._Eberhart</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79063385</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063385</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Thomas Eakins</dc:contributor>
 		<meta property="file-as" refines="#artist">Eakins, Thomas</meta>
@@ -77,7 +76,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Igor Dikiy</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Dikiy, Igor</meta>
-		<meta property="se:url.homepage" refines="#producer-1">www.linkedin.com/in/igor-dikiy-phd/</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/igor-dikiy-phd/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
